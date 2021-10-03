@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "course": "Calculus",
+        "grade": 50
+    },
+    {
+        "id": 1,
+        "course": "Microeconomics",
+        "grade": 43
+    },
+    {
+        "id": 1,
+        "course": "Statistics",
+        "grade": 50
+    },
+    {
+        "id": 1,
+        "course": "Astronomy",
+        "grade": 63
+    },
+    {
+        "id": 2,
+        "course": "Calculus",
+        "grade": 9
+    },
+    {
+        "id": 2,
+        "course": "Microeconomics",
+        "grade": 11
+    },
+    {
+        "id": 3,
+        "course": "Microeconomics",
+        "grade": 38
+    },
+    {
+        "id": 4,
+        "course": "Philosophy",
+        "grade": 79
+    },
+    {
+        "id": 4,
+        "course": "Calculus",
+        "grade": 1
+    },
+    {
+        "id": 4,
+        "course": "Microeconomics",
+        "grade": 10
+    },
+    {
+        "id": 5,
+        "course": "Microeconomics",
+        "grade": 69
+    },
+    {
+        "id": 5,
+        "course": "Philosophy",
+        "grade": 54
+    },
+    {
+        "id": 5,
+        "course": "Statistics",
+        "grade": 22
+    },
+    {
+        "id": 5,
+        "course": "Calculus",
+        "grade": 53
+    },
+    {
+        "id": 6,
+        "course": "Calculus",
+        "grade": 24
+    },
+    {
+        "id": 7,
+        "course": "Microeconomics",
+        "grade": 82
+    },
+    {
+        "id": 7,
+        "course": "Astronomy",
+        "grade": 37
+    },
+    {
+        "id": 8,
+        "course": "Statistics",
+        "grade": 62
+    },
+    {
+        "id": 8,
+        "course": "Calculus",
+        "grade": 25
+    },
+    {
+        "id": 11,
+        "course": "Calculus",
+        "grade": 66
+    },
+    {
+        "id": 11,
+        "course": "Philosophy",
+        "grade": 15
+    },
+    {
+        "id": 11,
+        "course": "Astronomy",
+        "grade": 92
+    },
+    {
+        "id": 11,
+        "course": "Microeconomics",
+        "grade": 30
+    },
+    {
+        "id": 12,
+        "course": "Microeconomics",
+        "grade": 77
+    },
+    {
+        "id": 12,
+        "course": "Philosophy",
+        "grade": 57
+    },
+    {
+        "id": 13,
+        "course": "Microeconomics",
+        "grade": 91
+    },
+    {
+        "id": 13,
+        "course": "Statistics",
+        "grade": 96
+    },
+    {
+        "id": 13,
+        "course": "Philosophy",
+        "grade": 35
+    },
+    {
+        "id": 13,
+        "course": "Astronomy",
+        "grade": 89
+    },
+    {
+        "id": 14,
+        "course": "Statistics",
+        "grade": 42
+    },
+    {
+        "id": 14,
+        "course": "Microeconomics",
+        "grade": 67
+    },
+    {
+        "id": 15,
+        "course": "Microeconomics",
+        "grade": 66
+    },
+    {
+        "id": 15,
+        "course": "Philosophy",
+        "grade": 78
+    },
+    {
+        "id": 15,
+        "course": "Calculus",
+        "grade": 31
+    },
+    {
+        "id": 16,
+        "course": "Microeconomics",
+        "grade": 5
+    },
+    {
+        "id": 17,
+        "course": "Astronomy",
+        "grade": 63
+    },
+    {
+        "id": 17,
+        "course": "Microeconomics",
+        "grade": 58
+    },
+    {
+        "id": 18,
+        "course": "Philosophy",
+        "grade": 15
+    },
+    {
+        "id": 18,
+        "course": "Astronomy",
+        "grade": 22
+    },
+    {
+        "id": 18,
+        "course": "Statistics",
+        "grade": 30
+    },
+    {
+        "id": 19,
+        "course": "Astronomy",
+        "grade": 72
+    },
+    {
+        "id": 19,
+        "course": "Calculus",
+        "grade": 49
+    },
+    {
+        "id": 19,
+        "course": "Philosophy",
+        "grade": 62
+    },
+    {
+        "id": 21,
+        "course": "Statistics",
+        "grade": 40
+    },
+    {
+        "id": 21,
+        "course": "Microeconomics",
+        "grade": 4
+    },
+    {
+        "id": 22,
+        "course": "Statistics",
+        "grade": 89
+    },
+    {
+        "id": 22,
+        "course": "Microeconomics",
+        "grade": 86
+    },
+    {
+        "id": 23,
+        "course": "Astronomy",
+        "grade": 91
+    },
+    {
+        "id": 23,
+        "course": "Philosophy",
+        "grade": 58
+    },
+    {
+        "id": 25,
+        "course": "Philosophy",
+        "grade": 26
+    },
+    {
+        "id": 25,
+        "course": "Calculus",
+        "grade": 20
+    },
+    {
+        "id": 25,
+        "course": "Microeconomics",
+        "grade": 12
+    },
+    {
+        "id": 25,
+        "course": "Statistics",
+        "grade": 91
+    },
+    {
+        "id": 26,
+        "course": "Astronomy",
+        "grade": 77
+    },
+    {
+        "id": 26,
+        "course": "Calculus",
+        "grade": 4
+    },
+    {
+        "id": 28,
+        "course": "Astronomy",
+        "grade": 69
+    },
+    {
+        "id": 28,
+        "course": "Microeconomics",
+        "grade": 83
+    },
+    {
+        "id": 28,
+        "course": "Philosophy",
+        "grade": 24
+    },
+    {
+        "id": 29,
+        "course": "Astronomy",
+        "grade": 83
+    },
+    {
+        "id": 30,
+        "course": "Astronomy",
+        "grade": 15
+    },
+    {
+        "id": 30,
+        "course": "Statistics",
+        "grade": 65
+    },
+    {
+        "id": 30,
+        "course": "Microeconomics",
+        "grade": 57
+    },
+    {
+        "id": 31,
+        "course": "Microeconomics",
+        "grade": 33
+    },
+    {
+        "id": 32,
+        "course": "Calculus",
+        "grade": 87
+    },
+    {
+        "id": 33,
+        "course": "Statistics",
+        "grade": 52
+    },
+    {
+        "id": 33,
+        "course": "Astronomy",
+        "grade": 81
+    },
+    {
+        "id": 34,
+        "course": "Astronomy",
+        "grade": 2
+    },
+    {
+        "id": 34,
+        "course": "Statistics",
+        "grade": 17
+    },
+    {
+        "id": 34,
+        "course": "Calculus",
+        "grade": 29
+    },
+    {
+        "id": 34,
+        "course": "Philosophy",
+        "grade": 13
+    },
+    {
+        "id": 35,
+        "course": "Philosophy",
+        "grade": 98
+    },
+    {
+        "id": 35,
+        "course": "Statistics",
+        "grade": 98
+    },
+    {
+        "id": 36,
+        "course": "Astronomy",
+        "grade": 24
+    },
+    {
+        "id": 36,
+        "course": "Microeconomics",
+        "grade": 20
+    },
+    {
+        "id": 36,
+        "course": "Philosophy",
+        "grade": 90
+    },
+    {
+        "id": 38,
+        "course": "Philosophy",
+        "grade": 2
+    },
+    {
+        "id": 38,
+        "course": "Calculus",
+        "grade": 62
+    },
+    {
+        "id": 38,
+        "course": "Microeconomics",
+        "grade": 8
+    },
+    {
+        "id": 38,
+        "course": "Astronomy",
+        "grade": 2
+    },
+    {
+        "id": 39,
+        "course": "Astronomy",
+        "grade": 94
+    },
+    {
+        "id": 39,
+        "course": "Statistics",
+        "grade": 10
+    },
+    {
+        "id": 41,
+        "course": "Philosophy",
+        "grade": 17
+    },
+    {
+        "id": 43,
+        "course": "Astronomy",
+        "grade": 75
+    },
+    {
+        "id": 43,
+        "course": "Calculus",
+        "grade": 1
+    },
+    {
+        "id": 44,
+        "course": "Statistics",
+        "grade": 18
+    },
+    {
+        "id": 44,
+        "course": "Astronomy",
+        "grade": 58
+    },
+    {
+        "id": 44,
+        "course": "Calculus",
+        "grade": 41
+    },
+    {
+        "id": 46,
+        "course": "Statistics",
+        "grade": 33
+    },
+    {
+        "id": 46,
+        "course": "Microeconomics",
+        "grade": 51
+    },
+    {
+        "id": 47,
+        "course": "Calculus",
+        "grade": 13
+    },
+    {
+        "id": 47,
+        "course": "Statistics",
+        "grade": 3
+    },
+    {
+        "id": 47,
+        "course": "Astronomy",
+        "grade": 58
+    },
+    {
+        "id": 48,
+        "course": "Philosophy",
+        "grade": 56
+    },
+    {
+        "id": 48,
+        "course": "Calculus",
+        "grade": 40
+    },
+    {
+        "id": 48,
+        "course": "Astronomy",
+        "grade": 46
+    },
+    {
+        "id": 50,
+        "course": "Statistics",
+        "grade": 85
+    },
+    {
+        "id": 50,
+        "course": "Microeconomics",
+        "grade": 29
+    },
+    {
+        "id": 50,
+        "course": "Philosophy",
+        "grade": 56
+    },
+    {
+        "id": 50,
+        "course": "Calculus",
+        "grade": 4
+    },
+    {
+        "id": 51,
+        "course": "Microeconomics",
+        "grade": 38
+    },
+    {
+        "id": 52,
+        "course": "Microeconomics",
+        "grade": 34
+    },
+    {
+        "id": 52,
+        "course": "Statistics",
+        "grade": 37
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": 5,
+        "first_name": "Jermaine",
+        "last_name": "Green",
+        "email": "Jermaine_Green@yahoo.com",
+        "is_registered": 0,
+        "is_approved": 1,
+        "password_hash": "aa32f328cd58706ee0ce2abed4ce573058926eca",
+        "address": "08515 Marty Isle Suite 443",
+        "city": "Draper",
+        "state": "TN",
+        "zip": "66697",
+        "phone": "791.393.7623 x454",
+        "created": "1628755544322.0",
+        "last_login": "1628737206320.0",
+        "ip_address": "158.212.50.124"
+    },
+    {
+        "id": 1,
+        "first_name": "Scotty",
+        "last_name": "Quigley",
+        "email": "Scotty79@hotmail.com",
+        "is_registered": 1,
+        "is_approved": 1,
+        "password_hash": "657907e1fd8e48e2be2aa59031ff8e0f0ecf8694",
+        "address": "241 Denesik Knolls Apt. 955",
+        "city": "Buffalo",
+        "state": "ME",
+        "zip": "04710",
+        "phone": "1-503-560-6954",
+        "created": "1628767983203.0",
+        "last_login": "1628770445749.0",
+        "ip_address": "2.137.18.155"
+    },
+    {
+        "id": 20,
+        "first_name": "Melody",
+        "last_name": "Purdy",
+        "email": "Melody13@gmail.com",
+        "is_registered": 1,
+        "is_approved": 1,
+        "password_hash": "14d35027f944a545347f944723633a549c3e76f9",
+        "address": "4875 Gutmann Course Suite 120",
+        "city": "Carson",
+        "state": "ND",
+        "zip": "34906",
+        "phone": "1-900-297-9222 x3275",
+        "created": "1628743331093.0",
+        "last_login": "1628717082450.0",
+        "ip_address": "226.119.62.82"
+    }
+]

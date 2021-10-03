@@ -2,6 +2,8 @@ const knex = require('./db')
 const Student = require('./models/student')
 const gradesData = require('./grades.json')
 const CourseService = require('./services/course')
+const testGrades = require('./mocks/test-grades.json')
+const IS_TEST = process.env.NODE_ENV === 'test'
 
 module.exports = {
   getHealth,
@@ -30,7 +32,9 @@ async function getStudent (req, res) {
 
 async function getStudentGradesReport (req, res, next) {
   const student = await Student.findById(req.params.id)
-  const grades = gradesData
+  let grades = IS_TEST ? testGrades : gradesData
+
+  grades = grades
     .filter(grade => String(grade.id) === req.params.id)
     .map(grade => ({ ...student, ...grade }))
 

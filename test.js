@@ -163,18 +163,18 @@ tape('should return student grades report', async function (t) {
   ]
 
   const { data } = await jsonist.get(url)
-  t.deepEqual(data, expected, 'should return student data')
+  t.deepEqual(data, expected)
   t.end()
 })
 
-tape('should return student grades report', async function (t) {
+tape('should return course statistics', async function (t) {
   const url = `${endpoint}/course/all/grades`
   const expected = [
-    { course: 'Calculus', max: 100, min: 0, avg: 50.12 },
-    { course: 'Microeconomics', max: 100, min: 0, avg: 49.8 },
-    { course: 'Statistics', max: 100, min: 0, avg: 49.99 },
-    { course: 'Astronomy', max: 100, min: 0, avg: 49.96 },
-    { course: 'Philosophy', max: 100, min: 0, avg: 49.87 }
+    { course: 'Calculus', max: 87, min: 1, avg: 32.05 },
+    { course: 'Microeconomics', max: 91, min: 4, avg: 44.08 },
+    { course: 'Statistics', max: 98, min: 3, avg: 49.47 },
+    { course: 'Astronomy', max: 94, min: 2, avg: 57.76 },
+    { course: 'Philosophy', max: 98, min: 2, avg: 46.39 }
   ]
 
   const { data } = await jsonist.get(url)
