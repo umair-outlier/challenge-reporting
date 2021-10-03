@@ -1,16 +1,17 @@
 const knex = require('./db')
+const auto = require('./lib/auto-catch')
 const Student = require('./models/student')
 const gradesData = require('./grades.json')
 const CourseService = require('./services/course')
 const testGrades = require('./mocks/test-grades.json')
 const IS_TEST = process.env.NODE_ENV === 'test'
 
-module.exports = {
+module.exports = auto({
   getHealth,
   getStudent,
   getStudentGradesReport,
   getCourseGradesReport
-}
+})
 
 async function getHealth (req, res, next) {
   try {

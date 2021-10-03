@@ -44,3 +44,18 @@ How to attempt this challenge:
 6) Push your solution to your repo
 
 You must follow these steps for your solution to be accepted -- forks or other methods will not be considered.
+
+
+## Feedback
+
+- Task is very closely related to our backend system, so candidate is getting the actual feel of working at outlier with this challenge 
+
+- The challenge is designed for creative thinking using streams and filesystem both of which are used in outlier backend design system
+
+- TDD is essential part of our system hence the challenge also allows the user to be aware of not calling live api's. 
+
+- The grades file is very large and it could not occur to the candidate that they can download the file instead of reading stream and calculating grades or using another method could be too hard.
+
+- The challenge focuses on independent functioning of modules and endpoints, while loose coupling is a good approach it's not always realistic in production apps, so if there could be a possibility of central adapter or something that is dependent upon by multiple things, could be beneficial to understanding system as a whole.
+
+- Proactivity and understanding concern of affected areas is a quality that is essential of BE devs, so I would recommend including a small task that could challenge those abilities. i.e. fixing something without breaking something else. for example adding a new feature in a live endpoint, without changing the actual responses
